@@ -21,3 +21,6 @@ Open command prompt type
     grun mathExp start input.txt -gui
     
     
+![alt text] (https://github.com/Ronney31/Antlr4-Basic/blob/master/pics/2.png)
+
+![alt text] (https://github.com/Ronney31/Antlr4-Basic/blob/master/pics/1.png)
