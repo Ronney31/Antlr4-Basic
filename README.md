@@ -13,13 +13,13 @@ Open command prompt type
     
 # 3. to compile all the java files created by step    
     javac mathExp.*java
+
+#4. to parse and run the mathematical expression wrote in input.txt as input to our project.
+
+    grun mathExp start input.txt
+  
+#5. to parse and run and view as graphical tree of our input
+    
+    grun mathExp start input.txt -gui
     
     
-    
-#4. grun mathExp start input.txt
-    
-    to parse and run the mathematical expression wrote in input.txt as input to our project.
-    
-#5. grun mathExp start input.txt -gui
-    
-    to parse and run and view as graphical tree of our input
