@@ -5,7 +5,7 @@ To run the project please follow below steps.
 
 Open command prompt type 
 
-#1. cd Math Expression
+1. #cd Math Expression
     to move to 'Math Expression' Directory.
     
 #2. antlr4 mathExp.g4
