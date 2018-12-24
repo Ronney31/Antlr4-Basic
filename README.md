@@ -5,7 +5,7 @@ To run the project please follow below steps.
 
 Open command prompt type 
 
-# 1. To move to 'Math Expression' Directory.
+ 1. To move to 'Math Expression' Directory.
     cd Math Expression
     
 # 2. To parse your build grammar 'mathExp.g4' and fead as input to antlr4.
