@@ -5,17 +5,16 @@ To run the project please follow below steps.
 
 Open command prompt type 
 
-#1. cd Math Expression
+# 1. to move to 'Math Expression' Directory.
+    cd Math Expression
     
-    to move to 'Math Expression' Directory.
+# 2. to parse your build grammar 'mathExp.g4' and fead as input to antlr4.
+    antlr4 mathExp.g4
     
-#2. antlr4 mathExp.g4
+# 3. to compile all the java files created by step    
+    javac mathExp.*java
     
-    to parse your build grammar 'mathExp.g4' and fead as input to antlr4.
     
-#3. javac mathExp.*java
-    
-    to compile all the java files created by step 2.
     
 #4. grun mathExp start input.txt
     
